@@ -1,0 +1,4 @@
+[submodule "profile/public"]
+	path = profile/public
+	url = https://github.com/vady-htop/vady-htop.github.io.git
+	branch = master
