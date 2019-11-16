@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "https://vady-htop.github.io/"
 languageCode = "en-us"
 title = "Spectre Pixel Theme"
 theme = "spectre-pixel"
