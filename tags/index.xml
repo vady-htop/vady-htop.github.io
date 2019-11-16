@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Spectre Pixel Theme</title>
+    <link>https://vady-htop.github.io/tags/</link>
+    <description>Recent content in Tags on Spectre Pixel Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vady-htop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>css3</title>
+      <link>https://vady-htop.github.io/tags/css3/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vady-htop.github.io/tags/css3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html5</title>
+      <link>https://vady-htop.github.io/tags/html5/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vady-htop.github.io/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://vady-htop.github.io/tags/javascript/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vady-htop.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jquery</title>
+      <link>https://vady-htop.github.io/tags/jquery/</link>
+      <pubDate>Mon, 04 Mar 2019 22:15:42 -0300</pubDate>
+      
+      <guid>https://vady-htop.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
