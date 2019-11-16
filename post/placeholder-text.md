@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Placeholder Text"
 date = "2019-03-09"
-description = "TEst"
+description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "html5",
     "css3",
